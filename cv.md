@@ -14,12 +14,12 @@ Now I want to develop my skills in IT and become a proficient Frontend Developer
 
 I am interested in foreign languages. I am fluent in English. I am currently studying Spanish.
 
-Skills and Proficiency:
-HTML5, CSS3
-JavaScript Basics
-Git, GitHub
+Skills and Proficiency:  
+HTML5, CSS3  
+JavaScript Basics  
+Git, GitHub  
 
-Languages:
-English - C1 (Advanced)
-Spanish - Intermediate
+Languages:  
+English - C1 (Advanced)  
+Spanish - Intermediate  
 Russian - Native
