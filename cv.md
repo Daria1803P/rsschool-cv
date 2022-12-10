@@ -1,5 +1,8 @@
 Daria Petrochenko
 
+![photo_2022-10-18_09-06-27](https://user-images.githubusercontent.com/119883185/206870332-f6ddc096-fb13-4499-b365-0c900fd364ad.jpg)
+
+
 Junior Frontend Developer  
 Contact information:  	
 Phone: +7 919 994 34 90  
